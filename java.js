@@ -47,10 +47,6 @@ document.querySelector("#pbtm")
   }
 });
 
-
-
-
-
 timer();
 bubble_maker();
 hitcounter();
